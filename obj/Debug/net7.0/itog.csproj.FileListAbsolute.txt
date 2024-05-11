@@ -1,0 +1,14 @@
+F:\Homework\cishark_hm\itog\bin\Debug\net7.0\itog.exe
+F:\Homework\cishark_hm\itog\bin\Debug\net7.0\itog.deps.json
+F:\Homework\cishark_hm\itog\bin\Debug\net7.0\itog.runtimeconfig.json
+F:\Homework\cishark_hm\itog\bin\Debug\net7.0\itog.dll
+F:\Homework\cishark_hm\itog\bin\Debug\net7.0\itog.pdb
+F:\Homework\cishark_hm\itog\obj\Debug\net7.0\itog.GeneratedMSBuildEditorConfig.editorconfig
+F:\Homework\cishark_hm\itog\obj\Debug\net7.0\itog.AssemblyInfoInputs.cache
+F:\Homework\cishark_hm\itog\obj\Debug\net7.0\itog.AssemblyInfo.cs
+F:\Homework\cishark_hm\itog\obj\Debug\net7.0\itog.csproj.CoreCompileInputs.cache
+F:\Homework\cishark_hm\itog\obj\Debug\net7.0\itog.dll
+F:\Homework\cishark_hm\itog\obj\Debug\net7.0\refint\itog.dll
+F:\Homework\cishark_hm\itog\obj\Debug\net7.0\itog.pdb
+F:\Homework\cishark_hm\itog\obj\Debug\net7.0\itog.genruntimeconfig.cache
+F:\Homework\cishark_hm\itog\obj\Debug\net7.0\ref\itog.dll
